@@ -1,0 +1,104 @@
+
+.logo img{
+  width: 250px;
+}
+
+header{
+  background-color: black;
+  color: white;
+}
+
+header li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 20px 30px;
+}
+
+h1{
+  border-left: 4px solid black;
+  border-bottom: 1px solid black;
+  padding-left: 5px;
+}
+
+.left{
+
+  width: 70%;
+  float: left;
+}
+
+/* フォーム */
+form h2{
+  border-left: 4px solid red;
+  padding-left: 5px;
+}
+
+form{
+  width: 100%;
+  background-color: #fbfbfb;
+  border:3px solid #ebebeb;
+  margin-bottom: 30px; 
+}
+
+.text{
+  border: 1px solid #dfdfdf;
+  padding: 5px;
+  color: #999;
+  background: #fff;
+}
+
+.form{
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.submit{
+  border: 1px solid lightgray;
+  padding: 4px 10px;
+  color: white;
+  background-color: #bfbfbf;
+  border-bottom: 2px solid gray;
+}
+
+/* タイトル */
+.main1{
+  width: 100%;
+  border: 3px solid #ebebeb;
+  background-color: #fbfbfb;
+  margin-bottom: 5px; 
+}
+
+.main1 h3{
+  padding-left: 10px;
+  border-bottom: 2px solid #ebebeb;
+}
+.main1 p{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* 右 */
+.right{
+  width: 23%;
+  float: left;
+  margin-top: 20px;
+  margin-left:40px;
+}
+
+.right h3{
+  border-bottom: 2px dotted black;
+}
+
+.right li{
+  list-style-type: none;
+}
+
+footer{
+ float: left;
+ width: 100%;
+ text-align: center;
+ line-height: 60px;
+ background-color: black;
+ color: white;
+ margin-top: 30px;
+}
